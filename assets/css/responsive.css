@@ -1,0 +1,384 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider-text h1 {
+	font-size: 45px;
+}
+.text h2 {
+	font-size: 18px;
+}
+.frotfolio-thum {
+	height: 250px;
+	width: 250px;
+	background-size: cover;
+	background-position: center bottom;
+	position: relative;
+}
+
+.about-slider .slider-text {
+	padding-left: 100px;
+}
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+.about-slider .slider-text h1 {
+	font-size: 31px;
+}
+.about-slider .slider-text {
+	padding-left: 100px;
+}
+
+.slider-height {
+	height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.mainmenu ul li a {
+	padding: 14px 6px;
+}
+.bar-menu a {
+	margin-top: 13px;
+}
+
+
+.slider-text h1 {
+	font-size: 50px;
+}
+.slider-text {
+	margin-top: 0;
+}
+.single-services {
+	padding: 30px 20px;
+}
+
+.team-img {
+	height: 350px;
+}
+.content {
+	padding-left: 0;
+}
+.text h2 {
+	padding-right: 0;
+}
+.text h2 {
+	font-size: 25px;
+}
+
+
+
+.footer-weiget > p {
+	padding-right: 0;
+}
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+	
+
+.header-top.transparent-header.header-sticky.sticky {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.features-text p {
+	margin: 0px;
+}
+
+.section-titel {
+	padding-bottom: 30px;
+	margin: 0;
+	text-align: center;
+}
+.features-text h4 a {
+	font-size: 22px;
+}
+.features-text.services-text h4 {
+	margin-bottom: 10px;
+}
+.button-group button:nth-child(5) {
+	padding-right: 0;
+	margin-top: 0;
+}
+
+.numb-counter span {
+	font-size: 35px;
+}
+
+.hover-section p {
+	margin-bottom: 30px;
+	padding: 0px 0;
+}
+.hover-socail-icon a {
+	margin-bottom: 10px;
+}
+.band-area {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.blog-area.grey-bg.pt-100.pb-70 {
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.single-band img {
+	max-width: 60%;
+}
+
+.slider-text h1 {
+	font-size: 35px;
+	padding: 0;
+}
+
+.slider-height {
+	height: 500px;
+}
+.features-area {
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.section-titel h2 {
+	font-size: 35px;
+}
+
+.services-area {
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.single-services {
+	padding: 15px 10px;
+	margin: 0px -10px;
+	text-align: center;
+}
+.frotfolio-area {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.counter-area {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.show-img-area.pt-100 {
+	padding-top: 60px;
+}
+.team-area {
+	padding-top: 60PX;
+	padding-bottom: 30px;
+}
+.team-img {
+	height: 500PX;
+}
+.text h2 {
+	font-size: 35px;
+}
+
+.text h2 {
+	padding-right: 0;
+}
+
+.why-sinax-area {
+	padding-top: 60PX;
+	padding-bottom: 60PX;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.why-sinax-bg {
+	width: 100%;
+	height: 300px;
+	margin-bottom: 30px;
+	position: relative
+}
+.numb-counter span::after {
+	left: 57%;
+}
+.content {
+	padding-left: 0;
+}
+
+
+.footer-area {
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+.footer-weiget > p {
+	padding-right: 0;
+	margin-bottom: 20px;
+}
+.footer-weiget h2 {
+	margin-bottom: 15px;
+}
+.copy-right-area p {
+	text-align: center;
+}
+#scrollUp {
+	bottom: 49px;
+	right: 16px;
+}
+.frotfolio-masonry {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+
+
+.why-sinax-area .about-btn {
+	display: block;
+	margin: auto;
+}
+
+.header-top {
+	position: relative;
+	padding-left: 0;
+	padding-right: 0;
+}
+.about-slider .slider-text {
+	text-align: center;
+}
+.about-slider .slider-text h1 {
+	font-size: 30px;
+}
+
+.about-slider .hover-section {
+	padding: 0px 30px;
+}
+.hover-section {
+	padding: 0px 30px;
+}
+
+.videos-area .text h2 {
+	font-size: 30px;
+}
+.videos-area {
+	height: 500px;
+}
+.text {
+	text-align: center;
+}
+.copy-right a {
+	padding-left: 0px;
+
+}
+.copy-right {
+	text-align: center;
+}
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+.slider-text h1 {
+	font-size: 35px;
+}
+.slider-height {
+	height: 500px;
+}
+.features-area{
+	padding: 30px 0;
+}
+.section-titel h2 {
+	font-size: 35px;
+}
+
+.services-area {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.single-services {
+	padding: 30px 15px;
+}
+.frotfolio-area{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.counter-area{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+.team-area {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.team-img {
+	height: 300px;
+}
+.text h2 {
+	font-size: 35px;
+}
+
+.text h2 {
+	padding-right: 0;
+}
+
+.why-sinax-area {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.why-sinax-bg {
+	width: 100%;
+	height: 300px;
+	margin-bottom: 30px;
+	position: relative
+}
+.numb-counter span::after {
+	left: 57%;
+}
+.content {
+	padding-left: 0;
+}
+
+
+.footer-area {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.features-area {
+	padding-bottom: 0;
+}
+.blog-area {
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+
+.header-top {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+}
